@@ -1,0 +1,12 @@
+{
+  "background_color": "#fdf5f0",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Bheeva Order Form",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Bheeva",
+  "start_url": "/",
+  "theme_color": "#e87a9a",
+  "description": "Generate and send Bheeva order forms instantly"
+}
